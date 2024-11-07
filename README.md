@@ -19,3 +19,8 @@ The Bechdel test measures the representation of women in film and novels. If a m
 | binary        | Fail or Pass the Bechdel test                  |
 | budget        | Money to make the movie                        |
 
+
+
+This dataset is from:
+https://www.kaggle.com/datasets/mathurinache/women-in-movies
+
